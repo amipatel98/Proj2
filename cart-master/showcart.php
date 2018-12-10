@@ -6,6 +6,7 @@
     </head>
     <body>
         <p>Add more design for showcart.php</p>
+        <p>After switch to the showcart.php and complete this remaining work and freezed this work</p>
     </body>
 </html>
 <?php
