@@ -1,4 +1,13 @@
-
+<html>
+    <head>
+        <style>
+            
+        </style>
+    </head>
+    <body>
+        <p>Add more design for showcart.php</p>
+    </body>
+</html>
 <?php
 	session_start();
 	require("connection.php");
